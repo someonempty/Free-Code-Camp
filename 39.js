@@ -1,2 +1,2 @@
 // Only change code below this line
-const myArray = ["one", 1];
+const myArray = ["one", 1]
