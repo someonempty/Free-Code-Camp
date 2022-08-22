@@ -19,4 +19,4 @@ const myMusic = [
         "LP"
       ]
     }
-  
+]
